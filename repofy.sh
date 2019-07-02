@@ -35,7 +35,7 @@ if [ $(printf "$REPOFY_FOLDERS" | wc -l) -gt 0 ]; then
 	for folder in $REPOFY_FOLDERS; do
 		pushd $folder
 
-		eval "$(cat ./PKGBUILD | sed -e 's/^[ \t]*//' | grep -E "^pkgname=|^pkgver=|^pkgrel=" | tr '\n' ';')"
+		eval "$(cat ./PKGBUILD | sed -e 's/^[ \t]*//' | grep -E "^pkgbase=|^pkgname=|^pkgver=|^pkgrel=" | tr '\n' ';')"
 
 		REPOFY_NEEDED="0"
 
