@@ -1,0 +1,1212 @@
+[submodule "packages/ros-catkin"]
+	path = packages/ros-catkin
+	url = ssh://aur@aur.archlinux.org/ros-catkin.git
+[submodule "packages/python-catkin"]
+	path = packages/python-catkin
+	url = ssh://aur@aur.archlinux.org/python-catkin.git
+[submodule "packages/python-empy"]
+	path = packages/python-empy
+	url = ssh://aur@aur.archlinux.org/python-empy.git
+[submodule "packages/ros-build-tools"]
+	path = packages/ros-build-tools
+	url = ssh://aur@aur.archlinux.org/ros-build-tools.git
+[submodule "packages/python2-argparse"]
+	path = packages/python2-argparse
+	url = ssh://aur@aur.archlinux.org/python2-argparse.git
+[submodule "packages/ros-melodic-rqt"]
+	path = packages/ros-melodic-rqt
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt.git
+[submodule "packages/ros-melodic-tf2-tools"]
+	path = packages/ros-melodic-tf2-tools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-tools.git
+[submodule "packages/ros-melodic-geometry2"]
+	path = packages/ros-melodic-geometry2
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geometry2.git
+[submodule "packages/ros-melodic-pid"]
+	path = packages/ros-melodic-pid
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pid.git
+[submodule "packages/ros-melodic-tuw-msgs"]
+	path = packages/ros-melodic-tuw-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-msgs.git
+[submodule "packages/ros-melodic-vision-msgs"]
+	path = packages/ros-melodic-vision-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-vision-msgs.git
+[submodule "packages/ros-melodic-slime-ros"]
+	path = packages/ros-melodic-slime-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-slime-ros.git
+[submodule "packages/ros-melodic-audio-common-msgs"]
+	path = packages/ros-melodic-audio-common-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-audio-common-msgs.git
+[submodule "packages/ros-melodic-octovis"]
+	path = packages/ros-melodic-octovis
+	url = ssh://aur@aur.archlinux.org/ros-melodic-octovis.git
+[submodule "packages/ros-melodic-tuw-object-msgs"]
+	path = packages/ros-melodic-tuw-object-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-object-msgs.git
+[submodule "packages/ros-melodic-audio-capture"]
+	path = packages/ros-melodic-audio-capture
+	url = ssh://aur@aur.archlinux.org/ros-melodic-audio-capture.git
+[submodule "packages/ros-melodic-random-numbers"]
+	path = packages/ros-melodic-random-numbers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-random-numbers.git
+[submodule "packages/ros-melodic-tf2-bullet"]
+	path = packages/ros-melodic-tf2-bullet
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-bullet.git
+[submodule "packages/ros-melodic-srdfdom"]
+	path = packages/ros-melodic-srdfdom
+	url = ssh://aur@aur.archlinux.org/ros-melodic-srdfdom.git
+[submodule "packages/ros-melodic-geometric-shapes"]
+	path = packages/ros-melodic-geometric-shapes
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geometric-shapes.git
+[submodule "packages/ros-melodic-audio-common"]
+	path = packages/ros-melodic-audio-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-audio-common.git
+[submodule "packages/ros-melodic-teleop-twist-keyboard"]
+	path = packages/ros-melodic-teleop-twist-keyboard
+	url = ssh://aur@aur.archlinux.org/ros-melodic-teleop-twist-keyboard.git
+[submodule "packages/ros-melodic-roslisp-repl"]
+	path = packages/ros-melodic-roslisp-repl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslisp-repl.git
+[submodule "packages/ros-melodic-kalman-filter"]
+	path = packages/ros-melodic-kalman-filter
+	url = ssh://aur@aur.archlinux.org/ros-melodic-kalman-filter.git
+[submodule "packages/ros-melodic-wu-ros-tools"]
+	path = packages/ros-melodic-wu-ros-tools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-wu-ros-tools.git
+[submodule "packages/ros-melodic-tf2-sensor-msgs"]
+	path = packages/ros-melodic-tf2-sensor-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-sensor-msgs.git
+[submodule "packages/ros-melodic-tuw-airskin-msgs"]
+	path = packages/ros-melodic-tuw-airskin-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-airskin-msgs.git
+[submodule "packages/ros-melodic-swri-console"]
+	path = packages/ros-melodic-swri-console
+	url = ssh://aur@aur.archlinux.org/ros-melodic-swri-console.git
+[submodule "packages/ros-melodic-tuw-vehicle-msgs"]
+	path = packages/ros-melodic-tuw-vehicle-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-vehicle-msgs.git
+[submodule "packages/ros-melodic-tuw-multi-robot-msgs"]
+	path = packages/ros-melodic-tuw-multi-robot-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-multi-robot-msgs.git
+[submodule "packages/ros-melodic-ecl-mpl"]
+	path = packages/ros-melodic-ecl-mpl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-mpl.git
+[submodule "packages/ros-melodic-tuw-geometry-msgs"]
+	path = packages/ros-melodic-tuw-geometry-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-geometry-msgs.git
+[submodule "packages/ros-melodic-dynamic-edt-3d"]
+	path = packages/ros-melodic-dynamic-edt-3d
+	url = ssh://aur@aur.archlinux.org/ros-melodic-dynamic-edt-3d.git
+[submodule "packages/ros-melodic-rosbaglive"]
+	path = packages/ros-melodic-rosbaglive
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbaglive.git
+[submodule "packages/ros-melodic-unique-identifier"]
+	path = packages/ros-melodic-unique-identifier
+	url = ssh://aur@aur.archlinux.org/ros-melodic-unique-identifier.git
+[submodule "packages/ros-melodic-sound-play"]
+	path = packages/ros-melodic-sound-play
+	url = ssh://aur@aur.archlinux.org/ros-melodic-sound-play.git
+[submodule "packages/ros-melodic-warehouse-ros"]
+	path = packages/ros-melodic-warehouse-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-warehouse-ros.git
+[submodule "packages/ros-melodic-urdf-geometry-parser"]
+	path = packages/ros-melodic-urdf-geometry-parser
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdf-geometry-parser.git
+[submodule "packages/ros-melodic-easy-markers"]
+	path = packages/ros-melodic-easy-markers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-easy-markers.git
+[submodule "packages/ros-melodic-tracetools"]
+	path = packages/ros-melodic-tracetools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tracetools.git
+[submodule "packages/ros-melodic-ompl"]
+	path = packages/ros-melodic-ompl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ompl.git
+[submodule "packages/ros-melodic-tuw-nav-msgs"]
+	path = packages/ros-melodic-tuw-nav-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-nav-msgs.git
+[submodule "packages/ros-melodic-slime-wrapper"]
+	path = packages/ros-melodic-slime-wrapper
+	url = ssh://aur@aur.archlinux.org/ros-melodic-slime-wrapper.git
+[submodule "packages/ros-melodic-audio-play"]
+	path = packages/ros-melodic-audio-play
+	url = ssh://aur@aur.archlinux.org/ros-melodic-audio-play.git
+[submodule "packages/ros-melodic-rosemacs"]
+	path = packages/ros-melodic-rosemacs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosemacs.git
+[submodule "packages/ros-melodic-tuw-gazebo-msgs"]
+	path = packages/ros-melodic-tuw-gazebo-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tuw-gazebo-msgs.git
+[submodule "packages/ros-melodic-rqt-nav-view"]
+	path = packages/ros-melodic-rqt-nav-view
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-nav-view.git
+[submodule "packages/ros-melodic-gazebo-ros-pkgs"]
+	path = packages/ros-melodic-gazebo-ros-pkgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-ros-pkgs.git
+[submodule "packages/ros-melodic-bfl"]
+	path = packages/ros-melodic-bfl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-bfl.git
+[submodule "packages/ros-melodic-openni2-launch"]
+	path = packages/ros-melodic-openni2-launch
+	url = ssh://aur@aur.archlinux.org/ros-melodic-openni2-launch.git
+[submodule "packages/ros-melodic-openni2-camera"]
+	path = packages/ros-melodic-openni2-camera
+	url = ssh://aur@aur.archlinux.org/ros-melodic-openni2-camera.git
+[submodule "packages/ros-melodic-rgbd-launch"]
+	path = packages/ros-melodic-rgbd-launch
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rgbd-launch.git
+[submodule "packages/ros-melodic-moveit-msgs"]
+	path = packages/ros-melodic-moveit-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-msgs.git
+[submodule "packages/ros-melodic-move-base"]
+	path = packages/ros-melodic-move-base
+	url = ssh://aur@aur.archlinux.org/ros-melodic-move-base.git
+[submodule "packages/ros-melodic-libviso2"]
+	path = packages/ros-melodic-libviso2
+	url = ssh://aur@aur.archlinux.org/ros-melodic-libviso2.git
+[submodule "packages/ros-melodic-ecl-utilities"]
+	path = packages/ros-melodic-ecl-utilities
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-utilities.git
+[submodule "packages/ros-melodic-ecl-time-lite"]
+	path = packages/ros-melodic-ecl-time-lite
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-time-lite.git
+[submodule "packages/ros-melodic-ecl-threads"]
+	path = packages/ros-melodic-ecl-threads
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-threads.git
+[submodule "packages/ros-melodic-ecl-build"]
+	path = packages/ros-melodic-ecl-build
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-build.git
+[submodule "packages/ros-melodic-ecl-time"]
+	path = packages/ros-melodic-ecl-time
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-time.git
+[submodule "packages/ros-melodic-ecl-concepts"]
+	path = packages/ros-melodic-ecl-concepts
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-concepts.git
+[submodule "packages/ros-melodic-ecl-type-traits"]
+	path = packages/ros-melodic-ecl-type-traits
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-type-traits.git
+[submodule "packages/ros-melodic-ecl-config"]
+	path = packages/ros-melodic-ecl-config
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-config.git
+[submodule "packages/ros-melodic-fcl"]
+	path = packages/ros-melodic-fcl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-fcl.git
+[submodule "packages/ros-melodic-ecl-errors"]
+	path = packages/ros-melodic-ecl-errors
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-errors.git
+[submodule "packages/ros-melodic-map-server"]
+	path = packages/ros-melodic-map-server
+	url = ssh://aur@aur.archlinux.org/ros-melodic-map-server.git
+[submodule "packages/ros-melodic-ecl-exceptions"]
+	path = packages/ros-melodic-ecl-exceptions
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-exceptions.git
+[submodule "packages/ros-melodic-pr2-machine"]
+	path = packages/ros-melodic-pr2-machine
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pr2-machine.git
+[submodule "packages/ros-melodic-ecl-license"]
+	path = packages/ros-melodic-ecl-license
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ecl-license.git
+[submodule "packages/ros-melodic-moveit-resources"]
+	path = packages/ros-melodic-moveit-resources
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-resources.git
+[submodule "packages/ros-melodic-unique-id"]
+	path = packages/ros-melodic-unique-id
+	url = ssh://aur@aur.archlinux.org/ros-melodic-unique-id.git
+[submodule "packages/ros-melodic-move-base-msgs"]
+	path = packages/ros-melodic-move-base-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-move-base-msgs.git
+[submodule "packages/ros-melodic-robot-localization"]
+	path = packages/ros-melodic-robot-localization
+	url = ssh://aur@aur.archlinux.org/ros-melodic-robot-localization.git
+[submodule "packages/ros-melodic-pointcloud-to-laserscan"]
+	path = packages/ros-melodic-pointcloud-to-laserscan
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pointcloud-to-laserscan.git
+[submodule "packages/ros-melodic-octomap-msgs"]
+	path = packages/ros-melodic-octomap-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-octomap-msgs.git
+[submodule "packages/ros-melodic-object-recognition-msgs"]
+	path = packages/ros-melodic-object-recognition-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-object-recognition-msgs.git
+[submodule "packages/ros-melodic-navfn"]
+	path = packages/ros-melodic-navfn
+	url = ssh://aur@aur.archlinux.org/ros-melodic-navfn.git
+[submodule "packages/ros-melodic-four-wheel-steering-controller"]
+	path = packages/ros-melodic-four-wheel-steering-controller
+	url = ssh://aur@aur.archlinux.org/ros-melodic-four-wheel-steering-controller.git
+[submodule "packages/ros-melodic-base-local-planner"]
+	path = packages/ros-melodic-base-local-planner
+	url = ssh://aur@aur.archlinux.org/ros-melodic-base-local-planner.git
+[submodule "packages/ros-melodic-amcl"]
+	path = packages/ros-melodic-amcl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-amcl.git
+[submodule "packages/ros-melodic-pr2-description"]
+	path = packages/ros-melodic-pr2-description
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pr2-description.git
+[submodule "packages/ros-melodic-libuvc-camera"]
+	path = packages/ros-melodic-libuvc-camera
+	url = ssh://aur@aur.archlinux.org/ros-melodic-libuvc-camera.git
+[submodule "packages/ros-melodic-four-wheel-steering-msgs"]
+	path = packages/ros-melodic-four-wheel-steering-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-four-wheel-steering-msgs.git
+[submodule "packages/ros-melodic-rotate-recovery"]
+	path = packages/ros-melodic-rotate-recovery
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rotate-recovery.git
+[submodule "packages/ros-melodic-convex-decomposition"]
+	path = packages/ros-melodic-convex-decomposition
+	url = ssh://aur@aur.archlinux.org/ros-melodic-convex-decomposition.git
+[submodule "packages/ros-melodic-viso2-ros"]
+	path = packages/ros-melodic-viso2-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-viso2-ros.git
+[submodule "packages/ros-melodic-pr2-msgs"]
+	path = packages/ros-melodic-pr2-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pr2-msgs.git
+[submodule "packages/ros-melodic-voxel-grid"]
+	path = packages/ros-melodic-voxel-grid
+	url = ssh://aur@aur.archlinux.org/ros-melodic-voxel-grid.git
+[submodule "packages/ros-melodic-urdf-sim-tutorial"]
+	path = packages/ros-melodic-urdf-sim-tutorial
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdf-sim-tutorial.git
+[submodule "packages/ros-melodic-yocs-velocity-smoother"]
+	path = packages/ros-melodic-yocs-velocity-smoother
+	url = ssh://aur@aur.archlinux.org/ros-melodic-yocs-velocity-smoother.git
+[submodule "packages/ros-melodic-pr2-dashboard-aggregator"]
+	path = packages/ros-melodic-pr2-dashboard-aggregator
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pr2-dashboard-aggregator.git
+[submodule "packages/ros-melodic-gazebo-plugins"]
+	path = packages/ros-melodic-gazebo-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-plugins.git
+[submodule "packages/ros-melodic-gazebo-msgs"]
+	path = packages/ros-melodic-gazebo-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-msgs.git
+[submodule "packages/ros-melodic-image-pipeline"]
+	path = packages/ros-melodic-image-pipeline
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-pipeline.git
+[submodule "packages/ros-melodic-control-toolbox"]
+	path = packages/ros-melodic-control-toolbox
+	url = ssh://aur@aur.archlinux.org/ros-melodic-control-toolbox.git
+[submodule "packages/ros-melodic-pr2-common"]
+	path = packages/ros-melodic-pr2-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pr2-common.git
+[submodule "packages/ros-melodic-perception"]
+	path = packages/ros-melodic-perception
+	url = ssh://aur@aur.archlinux.org/ros-melodic-perception.git
+[submodule "packages/ros-melodic-pcl-ros"]
+	path = packages/ros-melodic-pcl-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pcl-ros.git
+[submodule "packages/ros-melodic-pcl-msgs"]
+	path = packages/ros-melodic-pcl-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pcl-msgs.git
+[submodule "packages/ros-melodic-pcl-conversions"]
+	path = packages/ros-melodic-pcl-conversions
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pcl-conversions.git
+[submodule "packages/ros-melodic-stage"]
+	path = packages/ros-melodic-stage
+	url = ssh://aur@aur.archlinux.org/ros-melodic-stage.git
+[submodule "packages/ros-melodic-perception-pcl"]
+	path = packages/ros-melodic-perception-pcl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-perception-pcl.git
+[submodule "packages/ros-melodic-gazebo-ros"]
+	path = packages/ros-melodic-gazebo-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-ros.git
+[submodule "packages/ros-melodic-image-view"]
+	path = packages/ros-melodic-image-view
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-view.git
+[submodule "packages/ros-melodic-gazebo-ros-control"]
+	path = packages/ros-melodic-gazebo-ros-control
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-ros-control.git
+[submodule "packages/ros-melodic-transmission-interface"]
+	path = packages/ros-melodic-transmission-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-transmission-interface.git
+[submodule "packages/ros-melodic-octomap"]
+	path = packages/ros-melodic-octomap
+	url = ssh://aur@aur.archlinux.org/ros-melodic-octomap.git
+[submodule "packages/ros-melodic-stage-ros"]
+	path = packages/ros-melodic-stage-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-stage-ros.git
+[submodule "packages/ros-melodic-cv-bridge"]
+	path = packages/ros-melodic-cv-bridge
+	url = ssh://aur@aur.archlinux.org/ros-melodic-cv-bridge.git
+[submodule "packages/ros-melodic-socketcan-interface"]
+	path = packages/ros-melodic-socketcan-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-socketcan-interface.git
+[submodule "packages/ros-melodic-can-msgs"]
+	path = packages/ros-melodic-can-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-can-msgs.git
+[submodule "packages/ros-melodic-socketcan-bridge"]
+	path = packages/ros-melodic-socketcan-bridge
+	url = ssh://aur@aur.archlinux.org/ros-melodic-socketcan-bridge.git
+[submodule "packages/ros-melodic-vision-opencv"]
+	path = packages/ros-melodic-vision-opencv
+	url = ssh://aur@aur.archlinux.org/ros-melodic-vision-opencv.git
+[submodule "packages/ros-melodic-mavros-extras"]
+	path = packages/ros-melodic-mavros-extras
+	url = ssh://aur@aur.archlinux.org/ros-melodic-mavros-extras.git
+[submodule "packages/ros-melodic-libmavconn"]
+	path = packages/ros-melodic-libmavconn
+	url = ssh://aur@aur.archlinux.org/ros-melodic-libmavconn.git
+[submodule "packages/ros-melodic-joint-limits-interface"]
+	path = packages/ros-melodic-joint-limits-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joint-limits-interface.git
+[submodule "packages/ros-melodic-hardware-interface"]
+	path = packages/ros-melodic-hardware-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-hardware-interface.git
+[submodule "packages/ros-melodic-geographic-msgs"]
+	path = packages/ros-melodic-geographic-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geographic-msgs.git
+[submodule "packages/ros-melodic-mavros-msgs"]
+	path = packages/ros-melodic-mavros-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-mavros-msgs.git
+[submodule "packages/ros-melodic-camera-info-manager"]
+	path = packages/ros-melodic-camera-info-manager
+	url = ssh://aur@aur.archlinux.org/ros-melodic-camera-info-manager.git
+[submodule "packages/ros-melodic-polled-camera"]
+	path = packages/ros-melodic-polled-camera
+	url = ssh://aur@aur.archlinux.org/ros-melodic-polled-camera.git
+[submodule "packages/ros-melodic-controller-manager-msgs"]
+	path = packages/ros-melodic-controller-manager-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-controller-manager-msgs.git
+[submodule "packages/ros-melodic-test-mavros"]
+	path = packages/ros-melodic-test-mavros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-test-mavros.git
+[submodule "packages/ros-melodic-costmap-2d"]
+	path = packages/ros-melodic-costmap-2d
+	url = ssh://aur@aur.archlinux.org/ros-melodic-costmap-2d.git
+[submodule "packages/ros-melodic-mavros"]
+	path = packages/ros-melodic-mavros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-mavros.git
+[submodule "packages/ros-melodic-mavlink"]
+	path = packages/ros-melodic-mavlink
+	url = ssh://aur@aur.archlinux.org/ros-melodic-mavlink.git
+[submodule "packages/ros-melodic-gazebo-dev"]
+	path = packages/ros-melodic-gazebo-dev
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gazebo-dev.git
+[submodule "packages/ros-melodic-uuid-msgs"]
+	path = packages/ros-melodic-uuid-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-uuid-msgs.git
+[submodule "packages/ros-melodic-rqt-srv"]
+	path = packages/ros-melodic-rqt-srv
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-srv.git
+[submodule "packages/ros-melodic-rqt-gui-cpp"]
+	path = packages/ros-melodic-rqt-gui-cpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-gui-cpp.git
+[submodule "packages/ros-melodic-python-orocos-kdl"]
+	path = packages/ros-melodic-python-orocos-kdl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-python-orocos-kdl.git
+[submodule "packages/ros-melodic-laser-pipeline"]
+	path = packages/ros-melodic-laser-pipeline
+	url = ssh://aur@aur.archlinux.org/ros-melodic-laser-pipeline.git
+[submodule "packages/ros-melodic-laser-filters"]
+	path = packages/ros-melodic-laser-filters
+	url = ssh://aur@aur.archlinux.org/ros-melodic-laser-filters.git
+[submodule "packages/ros-melodic-chomp-motion-planner"]
+	path = packages/ros-melodic-chomp-motion-planner
+	url = ssh://aur@aur.archlinux.org/ros-melodic-chomp-motion-planner.git
+[submodule "packages/ros-melodic-openni-launch"]
+	path = packages/ros-melodic-openni-launch
+	url = ssh://aur@aur.archlinux.org/ros-melodic-openni-launch.git
+[submodule "packages/ros-melodic-controller-manager"]
+	path = packages/ros-melodic-controller-manager
+	url = ssh://aur@aur.archlinux.org/ros-melodic-controller-manager.git
+[submodule "packages/ros-melodic-laser-assembler"]
+	path = packages/ros-melodic-laser-assembler
+	url = ssh://aur@aur.archlinux.org/ros-melodic-laser-assembler.git
+[submodule "packages/ros-melodic-image-rotate"]
+	path = packages/ros-melodic-image-rotate
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-rotate.git
+[submodule "packages/ros-melodic-rosparam-shortcuts"]
+	path = packages/ros-melodic-rosparam-shortcuts
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosparam-shortcuts.git
+[submodule "packages/ros-melodic-camera-calibration-parsers"]
+	path = packages/ros-melodic-camera-calibration-parsers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-camera-calibration-parsers.git
+[submodule "packages/ros-melodic-rqt-runtime-monitor"]
+	path = packages/ros-melodic-rqt-runtime-monitor
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-runtime-monitor.git
+[submodule "packages/ros-melodic-message-filters-git"]
+	path = packages/ros-melodic-message-filters-git
+	url = ssh://aur@aur.archlinux.org/ros-melodic-message-filters-git.git
+[submodule "packages/ros-melodic-rqt-robot-plugins"]
+	path = packages/ros-melodic-rqt-robot-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-robot-plugins.git
+[submodule "packages/ros-melodic-libuvc"]
+	path = packages/ros-melodic-libuvc
+	url = ssh://aur@aur.archlinux.org/ros-melodic-libuvc.git
+[submodule "packages/ros-melodic-realtime-tools"]
+	path = packages/ros-melodic-realtime-tools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-realtime-tools.git
+[submodule "packages/ros-melodic-image-proc"]
+	path = packages/ros-melodic-image-proc
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-proc.git
+[submodule "packages/ros-melodic-libuvc-ros"]
+	path = packages/ros-melodic-libuvc-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-libuvc-ros.git
+[submodule "packages/ros-melodic-moveit-ros-move-group"]
+	path = packages/ros-melodic-moveit-ros-move-group
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-move-group.git
+[submodule "packages/ros-melodic-rqt-launch"]
+	path = packages/ros-melodic-rqt-launch
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-launch.git
+[submodule "packages/ros-melodic-spacenav-node"]
+	path = packages/ros-melodic-spacenav-node
+	url = ssh://aur@aur.archlinux.org/ros-melodic-spacenav-node.git
+[submodule "packages/ros-melodic-rqt-web"]
+	path = packages/ros-melodic-rqt-web
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-web.git
+[submodule "packages/ros-melodic-rqt-tf-tree"]
+	path = packages/ros-melodic-rqt-tf-tree
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-tf-tree.git
+[submodule "packages/ros-melodic-ps3joy"]
+	path = packages/ros-melodic-ps3joy
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ps3joy.git
+[submodule "packages/ros-melodic-joystick-drivers"]
+	path = packages/ros-melodic-joystick-drivers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joystick-drivers.git
+[submodule "packages/ros-melodic-controller-interface"]
+	path = packages/ros-melodic-controller-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-controller-interface.git
+[submodule "packages/ros-melodic-rqt-topic"]
+	path = packages/ros-melodic-rqt-topic
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-topic.git
+[submodule "packages/ros-melodic-moveit-plugins"]
+	path = packages/ros-melodic-moveit-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-plugins.git
+[submodule "packages/ros-melodic-rqt-robot-steering"]
+	path = packages/ros-melodic-rqt-robot-steering
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-robot-steering.git
+[submodule "packages/ros-melodic-joy"]
+	path = packages/ros-melodic-joy
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joy.git
+[submodule "packages/ros-melodic-rqt-service-caller"]
+	path = packages/ros-melodic-rqt-service-caller
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-service-caller.git
+[submodule "packages/ros-melodic-diff-drive-controller"]
+	path = packages/ros-melodic-diff-drive-controller
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diff-drive-controller.git
+[submodule "packages/ros-melodic-wiimote"]
+	path = packages/ros-melodic-wiimote
+	url = ssh://aur@aur.archlinux.org/ros-melodic-wiimote.git
+[submodule "packages/ros-melodic-openni-camera"]
+	path = packages/ros-melodic-openni-camera
+	url = ssh://aur@aur.archlinux.org/ros-melodic-openni-camera.git
+[submodule "packages/ros-melodic-joy-listener"]
+	path = packages/ros-melodic-joy-listener
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joy-listener.git
+[submodule "packages/ros-melodic-rqt-shell"]
+	path = packages/ros-melodic-rqt-shell
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-shell.git
+[submodule "packages/ros-melodic-image-common"]
+	path = packages/ros-melodic-image-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-common.git
+[submodule "packages/ros-melodic-moveit-commander"]
+	path = packages/ros-melodic-moveit-commander
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-commander.git
+[submodule "packages/ros-melodic-moveit-simple-controller-manager"]
+	path = packages/ros-melodic-moveit-simple-controller-manager
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-simple-controller-manager.git
+[submodule "packages/ros-melodic-moveit-core"]
+	path = packages/ros-melodic-moveit-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-core.git
+[submodule "packages/ros-melodic-rqt-pose-view"]
+	path = packages/ros-melodic-rqt-pose-view
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-pose-view.git
+[submodule "packages/ros-melodic-moveit-ros-visualization"]
+	path = packages/ros-melodic-moveit-ros-visualization
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-visualization.git
+[submodule "packages/ros-melodic-rqt-publisher"]
+	path = packages/ros-melodic-rqt-publisher
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-publisher.git
+[submodule "packages/ros-melodic-rqt-top"]
+	path = packages/ros-melodic-rqt-top
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-top.git
+[submodule "packages/ros-melodic-moveit-experimental"]
+	path = packages/ros-melodic-moveit-experimental
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-experimental.git
+[submodule "packages/ros-melodic-ivcon"]
+	path = packages/ros-melodic-ivcon
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ivcon.git
+[submodule "packages/ros-melodic-moveit-ros-planning"]
+	path = packages/ros-melodic-moveit-ros-planning
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-planning.git
+[submodule "packages/ros-melodic-webkit-dependency"]
+	path = packages/ros-melodic-webkit-dependency
+	url = ssh://aur@aur.archlinux.org/ros-melodic-webkit-dependency.git
+[submodule "packages/ros-melodic-moveit-ros-robot-interaction"]
+	path = packages/ros-melodic-moveit-ros-robot-interaction
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-robot-interaction.git
+[submodule "packages/ros-melodic-rqt-image-view"]
+	path = packages/ros-melodic-rqt-image-view
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-image-view.git
+[submodule "packages/ros-melodic-moveit-ros-control-interface"]
+	path = packages/ros-melodic-moveit-ros-control-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-control-interface.git
+[submodule "packages/ros-melodic-moveit-ros-manipulation"]
+	path = packages/ros-melodic-moveit-ros-manipulation
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-manipulation.git
+[submodule "packages/ros-melodic-moveit-planners"]
+	path = packages/ros-melodic-moveit-planners
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-planners.git
+[submodule "packages/ros-melodic-moveit-ros-warehouse"]
+	path = packages/ros-melodic-moveit-ros-warehouse
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-warehouse.git
+[submodule "packages/ros-melodic-moveit-ros-benchmarks"]
+	path = packages/ros-melodic-moveit-ros-benchmarks
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-benchmarks.git
+[submodule "packages/ros-melodic-rqt-rviz"]
+	path = packages/ros-melodic-rqt-rviz
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-rviz.git
+[submodule "packages/ros-melodic-forward-command-controller"]
+	path = packages/ros-melodic-forward-command-controller
+	url = ssh://aur@aur.archlinux.org/ros-melodic-forward-command-controller.git
+[submodule "packages/ros-melodic-image-geometry"]
+	path = packages/ros-melodic-image-geometry
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-geometry.git
+[submodule "packages/ros-melodic-image-transport"]
+	path = packages/ros-melodic-image-transport
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-transport.git
+[submodule "packages/ros-melodic-moveit-ros"]
+	path = packages/ros-melodic-moveit-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros.git
+[submodule "packages/ros-melodic-image-transport-plugins"]
+	path = packages/ros-melodic-image-transport-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-transport-plugins.git
+[submodule "packages/ros-melodic-moveit-fake-controller-manager"]
+	path = packages/ros-melodic-moveit-fake-controller-manager
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-fake-controller-manager.git
+[submodule "packages/ros-melodic-test-diagnostic-aggregator"]
+	path = packages/ros-melodic-test-diagnostic-aggregator
+	url = ssh://aur@aur.archlinux.org/ros-melodic-test-diagnostic-aggregator.git
+[submodule "packages/ros-melodic-moveit-kinematics"]
+	path = packages/ros-melodic-moveit-kinematics
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-kinematics.git
+[submodule "packages/ros-melodic-diagnostic-analysis"]
+	path = packages/ros-melodic-diagnostic-analysis
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostic-analysis.git
+[submodule "packages/ros-melodic-moveit-ros-planning-interface"]
+	path = packages/ros-melodic-moveit-ros-planning-interface
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-planning-interface.git
+[submodule "packages/ros-melodic-moveit-ros-perception"]
+	path = packages/ros-melodic-moveit-ros-perception
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-ros-perception.git
+[submodule "packages/ros-melodic-joint-state-controller"]
+	path = packages/ros-melodic-joint-state-controller
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joint-state-controller.git
+[submodule "packages/ros-melodic-camera-calibration"]
+	path = packages/ros-melodic-camera-calibration
+	url = ssh://aur@aur.archlinux.org/ros-melodic-camera-calibration.git
+[submodule "packages/ros-melodic-rosdiagnostic"]
+	path = packages/ros-melodic-rosdiagnostic
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosdiagnostic.git
+[submodule "packages/ros-melodic-rqt-py-console"]
+	path = packages/ros-melodic-rqt-py-console
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-py-console.git
+[submodule "packages/ros-melodic-moveit-setup-assistant"]
+	path = packages/ros-melodic-moveit-setup-assistant
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-setup-assistant.git
+[submodule "packages/ros-melodic-diagnostic-aggregator"]
+	path = packages/ros-melodic-diagnostic-aggregator
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostic-aggregator.git
+[submodule "packages/ros-melodic-gl-dependency"]
+	path = packages/ros-melodic-gl-dependency
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gl-dependency.git
+[submodule "packages/ros-melodic-rqt-moveit"]
+	path = packages/ros-melodic-rqt-moveit
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-moveit.git
+[submodule "packages/ros-melodic-clear-costmap-recovery"]
+	path = packages/ros-melodic-clear-costmap-recovery
+	url = ssh://aur@aur.archlinux.org/ros-melodic-clear-costmap-recovery.git
+[submodule "packages/ros-melodic-compressed-image-transport"]
+	path = packages/ros-melodic-compressed-image-transport
+	url = ssh://aur@aur.archlinux.org/ros-melodic-compressed-image-transport.git
+[submodule "packages/ros-melodic-rqt-common-plugins"]
+	path = packages/ros-melodic-rqt-common-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-common-plugins.git
+[submodule "packages/ros-melodic-moveit"]
+	path = packages/ros-melodic-moveit
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit.git
+[submodule "packages/ros-melodic-image-publisher"]
+	path = packages/ros-melodic-image-publisher
+	url = ssh://aur@aur.archlinux.org/ros-melodic-image-publisher.git
+[submodule "packages/ros-melodic-angles"]
+	path = packages/ros-melodic-angles
+	url = ssh://aur@aur.archlinux.org/ros-melodic-angles.git
+[submodule "packages/ros-melodic-position-controllers"]
+	path = packages/ros-melodic-position-controllers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-position-controllers.git
+[submodule "packages/ros-melodic-rqt-reconfigure"]
+	path = packages/ros-melodic-rqt-reconfigure
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-reconfigure.git
+[submodule "packages/ros-melodic-theora-image-transport"]
+	path = packages/ros-melodic-theora-image-transport
+	url = ssh://aur@aur.archlinux.org/ros-melodic-theora-image-transport.git
+[submodule "packages/ros-melodic-moveit-planners-ompl"]
+	path = packages/ros-melodic-moveit-planners-ompl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-moveit-planners-ompl.git
+[submodule "packages/ros-melodic-rqt-robot-monitor"]
+	path = packages/ros-melodic-rqt-robot-monitor
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-robot-monitor.git
+[submodule "packages/ros-melodic-tf2-eigen"]
+	path = packages/ros-melodic-tf2-eigen
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-eigen.git
+[submodule "packages/ros-melodic-rqt-robot-dashboard"]
+	path = packages/ros-melodic-rqt-robot-dashboard
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-robot-dashboard.git
+[submodule "packages/ros-melodic-eigen-stl-containers"]
+	path = packages/ros-melodic-eigen-stl-containers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-eigen-stl-containers.git
+[submodule "packages/ros-melodic-stereo-image-proc"]
+	path = packages/ros-melodic-stereo-image-proc
+	url = ssh://aur@aur.archlinux.org/ros-melodic-stereo-image-proc.git
+[submodule "packages/ros-melodic-depth-image-proc"]
+	path = packages/ros-melodic-depth-image-proc
+	url = ssh://aur@aur.archlinux.org/ros-melodic-depth-image-proc.git
+[submodule "packages/ros-melodic-compressed-depth-image-transport"]
+	path = packages/ros-melodic-compressed-depth-image-transport
+	url = ssh://aur@aur.archlinux.org/ros-melodic-compressed-depth-image-transport.git
+[submodule "packages/ros-melodic-nav-core"]
+	path = packages/ros-melodic-nav-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nav-core.git
+[submodule "packages/ros-melodic-ros-emacs-utils"]
+	path = packages/ros-melodic-ros-emacs-utils
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-emacs-utils.git
+[submodule "packages/ros-melodic-rosmsg"]
+	path = packages/ros-melodic-rosmsg
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosmsg.git
+[submodule "packages/ros-melodic-tf-conversions"]
+	path = packages/ros-melodic-tf-conversions
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf-conversions.git
+[submodule "packages/ros-melodic-self-test"]
+	path = packages/ros-melodic-self-test
+	url = ssh://aur@aur.archlinux.org/ros-melodic-self-test.git
+[submodule "packages/ros-melodic-tf2-py"]
+	path = packages/ros-melodic-tf2-py
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-py.git
+[submodule "packages/ros-melodic-map-msgs"]
+	path = packages/ros-melodic-map-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-map-msgs.git
+[submodule "packages/ros-melodic-diagnostics"]
+	path = packages/ros-melodic-diagnostics
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostics.git
+[submodule "packages/ros-melodic-rqt-action"]
+	path = packages/ros-melodic-rqt-action
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-action.git
+[submodule "packages/ros-melodic-kdl-parser-py"]
+	path = packages/ros-melodic-kdl-parser-py
+	url = ssh://aur@aur.archlinux.org/ros-melodic-kdl-parser-py.git
+[submodule "packages/ros-melodic-laser-geometry"]
+	path = packages/ros-melodic-laser-geometry
+	url = ssh://aur@aur.archlinux.org/ros-melodic-laser-geometry.git
+[submodule "packages/ros-melodic-actionlib-tutorials"]
+	path = packages/ros-melodic-actionlib-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-actionlib-tutorials.git
+[submodule "packages/ros-melodic-tf2-ros"]
+	path = packages/ros-melodic-tf2-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-ros.git
+[submodule "packages/ros-melodic-pluginlib-tutorials"]
+	path = packages/ros-melodic-pluginlib-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pluginlib-tutorials.git
+[submodule "packages/ros-melodic-turtle-tf"]
+	path = packages/ros-melodic-turtle-tf
+	url = ssh://aur@aur.archlinux.org/ros-melodic-turtle-tf.git
+[submodule "packages/ros-melodic-geometry"]
+	path = packages/ros-melodic-geometry
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geometry.git
+[submodule "packages/ros-melodic-qt-gui-py-common"]
+	path = packages/ros-melodic-qt-gui-py-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-qt-gui-py-common.git
+[submodule "packages/ros-melodic-geneus"]
+	path = packages/ros-melodic-geneus
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geneus.git
+[submodule "packages/ros-melodic-interactive-markers"]
+	path = packages/ros-melodic-interactive-markers
+	url = ssh://aur@aur.archlinux.org/ros-melodic-interactive-markers.git
+[submodule "packages/ros-melodic-rqt-bag"]
+	path = packages/ros-melodic-rqt-bag
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-bag.git
+[submodule "packages/ros-melodic-kdl-conversions"]
+	path = packages/ros-melodic-kdl-conversions
+	url = ssh://aur@aur.archlinux.org/ros-melodic-kdl-conversions.git
+[submodule "packages/ros-melodic-control-msgs"]
+	path = packages/ros-melodic-control-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-control-msgs.git
+[submodule "packages/ros-melodic-kdl-parser"]
+	path = packages/ros-melodic-kdl-parser
+	url = ssh://aur@aur.archlinux.org/ros-melodic-kdl-parser.git
+[submodule "packages/ros-melodic-visualization-marker-tutorials"]
+	path = packages/ros-melodic-visualization-marker-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-visualization-marker-tutorials.git
+[submodule "packages/ros-melodic-rviz-plugin-tutorials"]
+	path = packages/ros-melodic-rviz-plugin-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rviz-plugin-tutorials.git
+[submodule "packages/ros-melodic-filters"]
+	path = packages/ros-melodic-filters
+	url = ssh://aur@aur.archlinux.org/ros-melodic-filters.git
+[submodule "packages/ros-melodic-robot"]
+	path = packages/ros-melodic-robot
+	url = ssh://aur@aur.archlinux.org/ros-melodic-robot.git
+[submodule "packages/ros-melodic-qwt-dependency"]
+	path = packages/ros-melodic-qwt-dependency
+	url = ssh://aur@aur.archlinux.org/ros-melodic-qwt-dependency.git
+[submodule "packages/ros-melodic-qt-gui"]
+	path = packages/ros-melodic-qt-gui
+	url = ssh://aur@aur.archlinux.org/ros-melodic-qt-gui.git
+[submodule "packages/ros-melodic-rqt-console"]
+	path = packages/ros-melodic-rqt-console
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-console.git
+[submodule "packages/ros-melodic-rqt-gui"]
+	path = packages/ros-melodic-rqt-gui
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-gui.git
+[submodule "packages/ros-melodic-visualization-tutorials"]
+	path = packages/ros-melodic-visualization-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-visualization-tutorials.git
+[submodule "packages/ros-melodic-eigen-conversions"]
+	path = packages/ros-melodic-eigen-conversions
+	url = ssh://aur@aur.archlinux.org/ros-melodic-eigen-conversions.git
+[submodule "packages/ros-melodic-resource-retriever"]
+	path = packages/ros-melodic-resource-retriever
+	url = ssh://aur@aur.archlinux.org/ros-melodic-resource-retriever.git
+[submodule "packages/ros-melodic-common-tutorials"]
+	path = packages/ros-melodic-common-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-common-tutorials.git
+[submodule "packages/ros-melodic-rqt-py-common"]
+	path = packages/ros-melodic-rqt-py-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-py-common.git
+[submodule "packages/ros-melodic-ros-tutorials"]
+	path = packages/ros-melodic-ros-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-tutorials.git
+[submodule "packages/ros-melodic-rqt-graph"]
+	path = packages/ros-melodic-rqt-graph
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-graph.git
+[submodule "packages/ros-melodic-media-export"]
+	path = packages/ros-melodic-media-export
+	url = ssh://aur@aur.archlinux.org/ros-melodic-media-export.git
+[submodule "packages/ros-melodic-smach-ros"]
+	path = packages/ros-melodic-smach-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-smach-ros.git
+[submodule "packages/ros-melodic-urdfdom-py"]
+	path = packages/ros-melodic-urdfdom-py
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdfdom-py.git
+[submodule "packages/ros-melodic-tf2-kdl"]
+	path = packages/ros-melodic-tf2-kdl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-kdl.git
+[submodule "packages/ros-melodic-turtle-actionlib"]
+	path = packages/ros-melodic-turtle-actionlib
+	url = ssh://aur@aur.archlinux.org/ros-melodic-turtle-actionlib.git
+[submodule "packages/ros-melodic-tf2-msgs"]
+	path = packages/ros-melodic-tf2-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-msgs.git
+[submodule "packages/ros-melodic-rqt-plot"]
+	path = packages/ros-melodic-rqt-plot
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-plot.git
+[submodule "packages/ros-melodic-rviz-python-tutorial"]
+	path = packages/ros-melodic-rviz-python-tutorial
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rviz-python-tutorial.git
+[submodule "packages/ros-melodic-turtle-tf2"]
+	path = packages/ros-melodic-turtle-tf2
+	url = ssh://aur@aur.archlinux.org/ros-melodic-turtle-tf2.git
+[submodule "packages/ros-melodic-viz"]
+	path = packages/ros-melodic-viz
+	url = ssh://aur@aur.archlinux.org/ros-melodic-viz.git
+[submodule "packages/ros-melodic-diagnostic-common-diagnostics"]
+	path = packages/ros-melodic-diagnostic-common-diagnostics
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostic-common-diagnostics.git
+[submodule "packages/ros-melodic-urdf"]
+	path = packages/ros-melodic-urdf
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdf.git
+[submodule "packages/ros-melodic-rqt-msg"]
+	path = packages/ros-melodic-rqt-msg
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-msg.git
+[submodule "packages/ros-melodic-roslint"]
+	path = packages/ros-melodic-roslint
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslint.git
+[submodule "packages/ros-melodic-diagnostic-updater"]
+	path = packages/ros-melodic-diagnostic-updater
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostic-updater.git
+[submodule "packages/ros-melodic-smach-msgs"]
+	path = packages/ros-melodic-smach-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-smach-msgs.git
+[submodule "packages/ros-melodic-rqt-logger-level"]
+	path = packages/ros-melodic-rqt-logger-level
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-logger-level.git
+[submodule "packages/ros-melodic-roscpp-tutorials"]
+	path = packages/ros-melodic-roscpp-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp-tutorials.git
+[submodule "packages/ros-melodic-rqt-gui-py"]
+	path = packages/ros-melodic-rqt-gui-py
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-gui-py.git
+[submodule "packages/ros-melodic-librviz-tutorial"]
+	path = packages/ros-melodic-librviz-tutorial
+	url = ssh://aur@aur.archlinux.org/ros-melodic-librviz-tutorial.git
+[submodule "packages/ros-melodic-smach"]
+	path = packages/ros-melodic-smach
+	url = ssh://aur@aur.archlinux.org/ros-melodic-smach.git
+[submodule "packages/ros-melodic-roslz4"]
+	path = packages/ros-melodic-roslz4
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslz4.git
+[submodule "packages/ros-melodic-nodelet-tutorial-math"]
+	path = packages/ros-melodic-nodelet-tutorial-math
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nodelet-tutorial-math.git
+[submodule "packages/ros-melodic-urdf-tutorial"]
+	path = packages/ros-melodic-urdf-tutorial
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdf-tutorial.git
+[submodule "packages/ros-melodic-opencv3"]
+	path = packages/ros-melodic-opencv3
+	url = ssh://aur@aur.archlinux.org/ros-melodic-opencv3.git
+[submodule "packages/ros-melodic-rqt-bag-plugins"]
+	path = packages/ros-melodic-rqt-bag-plugins
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-bag-plugins.git
+[submodule "packages/ros-melodic-genpy"]
+	path = packages/ros-melodic-genpy
+	url = ssh://aur@aur.archlinux.org/ros-melodic-genpy.git
+[submodule "packages/ros-melodic-joint-state-publisher"]
+	path = packages/ros-melodic-joint-state-publisher
+	url = ssh://aur@aur.archlinux.org/ros-melodic-joint-state-publisher.git
+[submodule "packages/ros-melodic-rospy-tutorials"]
+	path = packages/ros-melodic-rospy-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rospy-tutorials.git
+[submodule "packages/ros-melodic-orocos-kdl"]
+	path = packages/ros-melodic-orocos-kdl
+	url = ssh://aur@aur.archlinux.org/ros-melodic-orocos-kdl.git
+[submodule "packages/ros-melodic-urdf-parser-plugin"]
+	path = packages/ros-melodic-urdf-parser-plugin
+	url = ssh://aur@aur.archlinux.org/ros-melodic-urdf-parser-plugin.git
+[submodule "packages/ros-melodic-interactive-marker-tutorials"]
+	path = packages/ros-melodic-interactive-marker-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-interactive-marker-tutorials.git
+[submodule "packages/ros-melodic-qt-dotgraph"]
+	path = packages/ros-melodic-qt-dotgraph
+	url = ssh://aur@aur.archlinux.org/ros-melodic-qt-dotgraph.git
+[submodule "packages/ros-melodic-rosmaster"]
+	path = packages/ros-melodic-rosmaster
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosmaster.git
+[submodule "packages/ros-melodic-rostest"]
+	path = packages/ros-melodic-rostest
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rostest.git
+[submodule "packages/ros-melodic-message-generation"]
+	path = packages/ros-melodic-message-generation
+	url = ssh://aur@aur.archlinux.org/ros-melodic-message-generation.git
+[submodule "packages/ros-melodic-roscpp-core"]
+	path = packages/ros-melodic-roscpp-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp-core.git
+[submodule "packages/ros-melodic-roscpp-serialization"]
+	path = packages/ros-melodic-roscpp-serialization
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp-serialization.git
+[submodule "packages/ros-melodic-roscpp-traits"]
+	path = packages/ros-melodic-roscpp-traits
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp-traits.git
+[submodule "packages/ros-melodic-genmsg"]
+	path = packages/ros-melodic-genmsg
+	url = ssh://aur@aur.archlinux.org/ros-melodic-genmsg.git
+[submodule "packages/ros-melodic-roslib"]
+	path = packages/ros-melodic-roslib
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslib.git
+[submodule "packages/ros-melodic-cmake-modules"]
+	path = packages/ros-melodic-cmake-modules
+	url = ssh://aur@aur.archlinux.org/ros-melodic-cmake-modules.git
+[submodule "packages/ros-melodic-nodelet-topic-tools"]
+	path = packages/ros-melodic-nodelet-topic-tools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nodelet-topic-tools.git
+[submodule "packages/ros-melodic-turtlesim"]
+	path = packages/ros-melodic-turtlesim
+	url = ssh://aur@aur.archlinux.org/ros-melodic-turtlesim.git
+[submodule "packages/ros-melodic-gencpp"]
+	path = packages/ros-melodic-gencpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gencpp.git
+[submodule "packages/ros-melodic-message-runtime"]
+	path = packages/ros-melodic-message-runtime
+	url = ssh://aur@aur.archlinux.org/ros-melodic-message-runtime.git
+[submodule "packages/ros-melodic-smclib"]
+	path = packages/ros-melodic-smclib
+	url = ssh://aur@aur.archlinux.org/ros-melodic-smclib.git
+[submodule "packages/ros-melodic-genlisp"]
+	path = packages/ros-melodic-genlisp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-genlisp.git
+[submodule "packages/ros-melodic-bond-core"]
+	path = packages/ros-melodic-bond-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-bond-core.git
+[submodule "packages/ros-melodic-std-msgs"]
+	path = packages/ros-melodic-std-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-std-msgs.git
+[submodule "packages/ros-melodic-rosconsole"]
+	path = packages/ros-melodic-rosconsole
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosconsole.git
+[submodule "packages/ros-melodic-rosunit"]
+	path = packages/ros-melodic-rosunit
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosunit.git
+[submodule "packages/ros-melodic-bondcpp"]
+	path = packages/ros-melodic-bondcpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-bondcpp.git
+[submodule "packages/ros-melodic-roscpp"]
+	path = packages/ros-melodic-roscpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp.git
+[submodule "packages/ros-melodic-roslang"]
+	path = packages/ros-melodic-roslang
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslang.git
+[submodule "packages/ros-melodic-xacro"]
+	path = packages/ros-melodic-xacro
+	url = ssh://aur@aur.archlinux.org/ros-melodic-xacro.git
+[submodule "packages/ros-melodic-roscpp-git"]
+	path = packages/ros-melodic-roscpp-git
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscpp-git.git
+[submodule "packages/ros-melodic-tf"]
+	path = packages/ros-melodic-tf
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf.git
+[submodule "packages/ros-melodic-rosgraph"]
+	path = packages/ros-melodic-rosgraph
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosgraph.git
+[submodule "packages/ros-melodic-bondpy"]
+	path = packages/ros-melodic-bondpy
+	url = ssh://aur@aur.archlinux.org/ros-melodic-bondpy.git
+[submodule "packages/ros-melodic-class-loader"]
+	path = packages/ros-melodic-class-loader
+	url = ssh://aur@aur.archlinux.org/ros-melodic-class-loader.git
+[submodule "packages/ros-melodic-mk"]
+	path = packages/ros-melodic-mk
+	url = ssh://aur@aur.archlinux.org/ros-melodic-mk.git
+[submodule "packages/ros-melodic-roscreate"]
+	path = packages/ros-melodic-roscreate
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roscreate.git
+[submodule "packages/ros-melodic-rosparam"]
+	path = packages/ros-melodic-rosparam
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosparam.git
+[submodule "packages/ros-melodic-rosmake"]
+	path = packages/ros-melodic-rosmake
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosmake.git
+[submodule "packages/ros-melodic-ros"]
+	path = packages/ros-melodic-ros
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros.git
+[submodule "packages/ros-melodic-rosbuild"]
+	path = packages/ros-melodic-rosbuild
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbuild.git
+[submodule "packages/ros-melodic-rosbag-storage"]
+	path = packages/ros-melodic-rosbag-storage
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbag-storage.git
+[submodule "packages/ros-melodic-rosbag"]
+	path = packages/ros-melodic-rosbag
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbag.git
+[submodule "packages/ros-melodic-rosclean"]
+	path = packages/ros-melodic-rosclean
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosclean.git
+[submodule "packages/ros-melodic-std-srvs"]
+	path = packages/ros-melodic-std-srvs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-std-srvs.git
+[submodule "packages/ros-melodic-ros-environment"]
+	path = packages/ros-melodic-ros-environment
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-environment.git
+[submodule "packages/ros-melodic-actionlib"]
+	path = packages/ros-melodic-actionlib
+	url = ssh://aur@aur.archlinux.org/ros-melodic-actionlib.git
+[submodule "packages/ros-melodic-roslaunch"]
+	path = packages/ros-melodic-roslaunch
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslaunch.git
+[submodule "packages/ros-melodic-actionlib-msgs"]
+	path = packages/ros-melodic-actionlib-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-actionlib-msgs.git
+[submodule "packages/ros-melodic-cpp-common"]
+	path = packages/ros-melodic-cpp-common
+	url = ssh://aur@aur.archlinux.org/ros-melodic-cpp-common.git
+[submodule "packages/ros-melodic-topic-tools"]
+	path = packages/ros-melodic-topic-tools
+	url = ssh://aur@aur.archlinux.org/ros-melodic-topic-tools.git
+[submodule "packages/ros-melodic-rostopic"]
+	path = packages/ros-melodic-rostopic
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rostopic.git
+[submodule "packages/ros-melodic-stereo-msgs"]
+	path = packages/ros-melodic-stereo-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-stereo-msgs.git
+[submodule "packages/ros-melodic-python-qt-binding"]
+	path = packages/ros-melodic-python-qt-binding
+	url = ssh://aur@aur.archlinux.org/ros-melodic-python-qt-binding.git
+[submodule "packages/ros-melodic-diagnostic-msgs"]
+	path = packages/ros-melodic-diagnostic-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-diagnostic-msgs.git
+[submodule "packages/ros-melodic-simulators"]
+	path = packages/ros-melodic-simulators
+	url = ssh://aur@aur.archlinux.org/ros-melodic-simulators.git
+[submodule "packages/ros-melodic-nodelet-core"]
+	path = packages/ros-melodic-nodelet-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nodelet-core.git
+[submodule "packages/ros-melodic-gennodejs"]
+	path = packages/ros-melodic-gennodejs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-gennodejs.git
+[submodule "packages/ros-melodic-dynamic-reconfigure"]
+	path = packages/ros-melodic-dynamic-reconfigure
+	url = ssh://aur@aur.archlinux.org/ros-melodic-dynamic-reconfigure.git
+[submodule "packages/ros-melodic-geometry-msgs"]
+	path = packages/ros-melodic-geometry-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geometry-msgs.git
+[submodule "packages/ros-melodic-rosservice"]
+	path = packages/ros-melodic-rosservice
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosservice.git
+[submodule "packages/ros-melodic-tf2-geometry-msgs"]
+	path = packages/ros-melodic-tf2-geometry-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2-geometry-msgs.git
+[submodule "packages/ros-melodic-bond"]
+	path = packages/ros-melodic-bond
+	url = ssh://aur@aur.archlinux.org/ros-melodic-bond.git
+[submodule "packages/ros-melodic-ros-comm"]
+	path = packages/ros-melodic-ros-comm
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-comm.git
+[submodule "packages/ros-melodic-common-msgs"]
+	path = packages/ros-melodic-common-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-common-msgs.git
+[submodule "packages/ros-melodic-rosnode"]
+	path = packages/ros-melodic-rosnode
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosnode.git
+[submodule "packages/ros-melodic-nav-msgs"]
+	path = packages/ros-melodic-nav-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nav-msgs.git
+[submodule "packages/ros-melodic-rosbag-migration-rule"]
+	path = packages/ros-melodic-rosbag-migration-rule
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbag-migration-rule.git
+[submodule "packages/ros-melodic-nodelet"]
+	path = packages/ros-melodic-nodelet
+	url = ssh://aur@aur.archlinux.org/ros-melodic-nodelet.git
+[submodule "packages/ros-melodic-rqt-dep"]
+	path = packages/ros-melodic-rqt-dep
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rqt-dep.git
+[submodule "packages/ros-melodic-rosboost-cfg"]
+	path = packages/ros-melodic-rosboost-cfg
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosboost-cfg.git
+[submodule "packages/ros-melodic-tf2"]
+	path = packages/ros-melodic-tf2
+	url = ssh://aur@aur.archlinux.org/ros-melodic-tf2.git
+[submodule "packages/ros-melodic-trajectory-msgs"]
+	path = packages/ros-melodic-trajectory-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-trajectory-msgs.git
+[submodule "packages/ros-melodic-executive-smach"]
+	path = packages/ros-melodic-executive-smach
+	url = ssh://aur@aur.archlinux.org/ros-melodic-executive-smach.git
+[submodule "packages/ros-melodic-ros-core"]
+	path = packages/ros-melodic-ros-core
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-core.git
+[submodule "packages/ros-melodic-sensor-msgs"]
+	path = packages/ros-melodic-sensor-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-sensor-msgs.git
+[submodule "packages/ros-melodic-robot-state-publisher"]
+	path = packages/ros-melodic-robot-state-publisher
+	url = ssh://aur@aur.archlinux.org/ros-melodic-robot-state-publisher.git
+[submodule "packages/ros-melodic-roswtf"]
+	path = packages/ros-melodic-roswtf
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roswtf.git
+[submodule "packages/ros-melodic-visualization-msgs"]
+	path = packages/ros-melodic-visualization-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-visualization-msgs.git
+[submodule "packages/ros-melodic-rosbash"]
+	path = packages/ros-melodic-rosbash
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosbash.git
+[submodule "packages/ros-melodic-shape-msgs"]
+	path = packages/ros-melodic-shape-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-shape-msgs.git
+[submodule "packages/ros-melodic-message-filters"]
+	path = packages/ros-melodic-message-filters
+	url = ssh://aur@aur.archlinux.org/ros-melodic-message-filters.git
+[submodule "packages/ros-melodic-rosgraph-msgs"]
+	path = packages/ros-melodic-rosgraph-msgs
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosgraph-msgs.git
+[submodule "packages/ros-melodic-qt-gui-cpp"]
+	path = packages/ros-melodic-qt-gui-cpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-qt-gui-cpp.git
+[submodule "packages/ros-melodic-rostime"]
+	path = packages/ros-melodic-rostime
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rostime.git
+[submodule "packages/ros-melodic-geometry-tutorials"]
+	path = packages/ros-melodic-geometry-tutorials
+	url = ssh://aur@aur.archlinux.org/ros-melodic-geometry-tutorials.git
+[submodule "packages/ros-melodic-roslisp"]
+	path = packages/ros-melodic-roslisp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-roslisp.git
+[submodule "packages/ros-melodic-pluginlib"]
+	path = packages/ros-melodic-pluginlib
+	url = ssh://aur@aur.archlinux.org/ros-melodic-pluginlib.git
+[submodule "packages/ros-melodic-rosout"]
+	path = packages/ros-melodic-rosout
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosout.git
+[submodule "packages/ros-melodic-desktop"]
+	path = packages/ros-melodic-desktop
+	url = ssh://aur@aur.archlinux.org/ros-melodic-desktop.git
+[submodule "packages/ros-melodic-ros-base"]
+	path = packages/ros-melodic-ros-base
+	url = ssh://aur@aur.archlinux.org/ros-melodic-ros-base.git
+[submodule "packages/ros-melodic-xmlrpcpp"]
+	path = packages/ros-melodic-xmlrpcpp
+	url = ssh://aur@aur.archlinux.org/ros-melodic-xmlrpcpp.git
+[submodule "packages/ros-melodic-rosconsole-bridge"]
+	path = packages/ros-melodic-rosconsole-bridge
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rosconsole-bridge.git
+[submodule "packages/ros-melodic-rospy"]
+	path = packages/ros-melodic-rospy
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rospy.git
+[submodule "packages/ros-melodic-rviz"]
+	path = packages/ros-melodic-rviz
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rviz.git
+[submodule "packages/ros-melodic-catkin"]
+	path = packages/ros-melodic-catkin
+	url = ssh://aur@aur.archlinux.org/ros-melodic-catkin.git
+[submodule "packages/ros-melodic-rospack"]
+	path = packages/ros-melodic-rospack
+	url = ssh://aur@aur.archlinux.org/ros-melodic-rospack.git
+[submodule "packages/ros-melodic-desktop-full"]
+	path = packages/ros-melodic-desktop-full
+	url = ssh://aur@aur.archlinux.org/ros-melodic-desktop-full.git
+[submodule "packages/cwiid"]
+	path = packages/cwiid
+	url = ssh://aur@aur.archlinux.org/cwiid.git
+[submodule "packages/gazebo"]
+	path = packages/gazebo
+	url = ssh://aur@aur.archlinux.org/gazebo.git
+[submodule "packages/geographiclib"]
+	path = packages/geographiclib
+	url = ssh://aur@aur.archlinux.org/geographiclib.git
+[submodule "packages/libccd"]
+	path = packages/libccd
+	url = ssh://aur@aur.archlinux.org/libccd.git
+[submodule "packages/libqglviewer-qt4"]
+	path = packages/libqglviewer-qt4
+	url = ssh://aur@aur.archlinux.org/libqglviewer-qt4.git
+[submodule "packages/log4cxx"]
+	path = packages/log4cxx
+	url = ssh://aur@aur.archlinux.org/log4cxx.git
+[submodule "packages/ogre-1.9"]
+	path = packages/ogre-1.9
+	url = ssh://aur@aur.archlinux.org/ogre-1.9.git
+[submodule "packages/opencv3-opt"]
+	path = packages/opencv3-opt
+	url = ssh://aur@aur.archlinux.org/opencv3-opt.git
+[submodule "packages/openni"]
+	path = packages/openni
+	url = ssh://aur@aur.archlinux.org/openni.git
+[submodule "packages/pcl"]
+	path = packages/pcl
+	url = ssh://aur@aur.archlinux.org/pcl.git
+[submodule "packages/python-catkin_pkg"]
+	path = packages/python-catkin_pkg
+	url = ssh://aur@aur.archlinux.org/python-catkin_pkg.git
+[submodule "packages/python-pyassimp"]
+	path = packages/python-pyassimp
+	url = ssh://aur@aur.archlinux.org/python-pyassimp.git
+[submodule "packages/python-rosdep"]
+	path = packages/python-rosdep
+	url = ssh://aur@aur.archlinux.org/python-rosdep.git
+[submodule "packages/python-rospkg"]
+	path = packages/python-rospkg
+	url = ssh://aur@aur.archlinux.org/python-rospkg.git
+[submodule "packages/qt4"]
+	path = packages/qt4
+	url = ssh://aur@aur.archlinux.org/qt4.git
+[submodule "packages/ros-build-tools-py3"]
+	path = packages/ros-build-tools-py3
+	url = ssh://aur@aur.archlinux.org/ros-build-tools-py3.git
+[submodule "packages/spacenavd"]
+	path = packages/spacenavd
+	url = ssh://aur@aur.archlinux.org/spacenavd.git
+[submodule "packages/tango-icon-theme"]
+	path = packages/tango-icon-theme
+	url = ssh://aur@aur.archlinux.org/tango-icon-theme.git
+[submodule "packages/urdfdom"]
+	path = packages/urdfdom
+	url = ssh://aur@aur.archlinux.org/urdfdom.git
+[submodule "packages/urdfdom-headers"]
+	path = packages/urdfdom-headers
+	url = ssh://aur@aur.archlinux.org/urdfdom-headers.git
+[submodule "packages/openni2-git"]
+	path = packages/openni2-git
+	url = ssh://aur@aur.archlinux.org/openni2-git.git
