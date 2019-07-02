@@ -16,7 +16,7 @@ Server = file://$(realpath ./repo)
 
 [ros]
 SigLevel = Optional TrustAll
-Server = https://dl.aurorafoss.org/aurorafoss/pub/repo/ros-archlinux/" >> .tmp/pacman.conf
+Server = https://repo.aurorafoss.org/ros-archlinux/" >> .tmp/pacman.conf
 
 	mkdir -p ./chroot/
 	mkarchroot -C .tmp/pacman.conf ./chroot/root base-devel
