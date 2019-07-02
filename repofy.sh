@@ -2,21 +2,27 @@
 git submodule sync
 git submodule update
 
-if [ ! -d ./chroot/root ]; then
-	cat /etc/pacman.conf > ./pacman.conf
-	echo "[ros]
-SigLevel = Optional TrustAll
-Server = file://$(realpath ./repo)" >> ./pacman.conf
-
-	mkdir -p ./chroot/
-	mkarchroot -C contrib/pacman.conf ./chroot/root base-devel
-fi
-
-arch-nspawn ./chroot/root --bind-ro="$(realpath ./repo)" pacman -Syu
-
 mkdir -p ./repo/
 
 repo-add -q ./repo/ros.db.tar.xz
+repo-add -q ./repo/ros-local.db.tar.xz
+
+if [ ! -d ./chroot/root ]; then
+	mkdir -p ./.tmp/
+	cp contrib/pacman.conf .tmp/pacman.conf
+	echo "[ros-local]
+SigLevel = Optional TrustAll
+Server = file://$(realpath ./repo)
+
+[ros]
+SigLevel = Optional TrustAll
+Server = https://dl.aurorafoss.org/aurorafoss/pub/repo/ros-archlinux/" >> .tmp/pacman.conf
+
+	mkdir -p ./chroot/
+	mkarchroot -C .tmp/pacman.conf ./chroot/root base-devel
+fi
+
+arch-nspawn ./chroot/root --bind-ro="$(realpath ./repo)" pacman -Syu
 
 
 REPOFY_FOLDERS=$(find ./packages/ -maxdepth 1 -mindepth 1 -type d)
@@ -48,6 +54,7 @@ if [ $(printf "$REPOFY_FOLDERS" | wc -l) -gt 0 ]; then
 			for package in $(find . -maxdepth 1 -mindepth 1 -type f | grep ".pkg.tar.xz$"); do
 				mv $package ../../repo
 				repo-add -q ../../repo/ros.db.tar.xz ../../repo/$package
+				repo-add -q ../../repo/ros-local.db.tar.xz ../../repo/$package
 	
 				date +%s > ../../repo/lastupdate
 			done
